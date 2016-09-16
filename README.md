@@ -1,3 +1,3 @@
 # hello-world
-hello worlllldddd\n
+hello worlllldddd
 my name is Tim
